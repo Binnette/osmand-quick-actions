@@ -1,0 +1,34 @@
+{
+    "items": [
+      {
+        "name": "Mosque",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Place of worship\\\",\\\"religion\\\":\\\"muslim\\\"}\",\"dialog\":\"false\"}"
+      },
+      {
+        "name": "Church",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Place of worship\\\",\\\"religion\\\":\\\"christian\\\"}\",\"dialog\":\"false\"}"
+      },
+      {
+        "name": "Snack Kiosk",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Kiosk\\\",\\\"vending\\\":\\\"snack\\\"}\",\"dialog\":\"false\"}"
+      },
+      {
+        "name": "Restaurant",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Restaurant\\\"}\",\"dialog\":\"true\"}"
+      },
+      {
+        "name": "Convenience",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Convenience\\\"}\",\"dialog\":\"true\"}"
+      },
+      {
+        "name": "Pharmacy",
+        "actionType": "osmpoi.add",
+        "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Pharmacy\\\"}\",\"dialog\":\"false\"}"
+      }
+    ]
+  }

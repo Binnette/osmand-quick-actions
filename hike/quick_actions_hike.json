@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Viewpoint",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Viewpoint\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Guidepost",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information guidepost\\\"}\",\"dialog\":\"true\"}"
+    },
+    {
+      "name": "Spring",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Spring\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Wayside cross",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Wayside cross\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Toilets",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Toilets\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Building",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Construction",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"construction\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Ruins",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"ruins\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    }
+  ]
+}

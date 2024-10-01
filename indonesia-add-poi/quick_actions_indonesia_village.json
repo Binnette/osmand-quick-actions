@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "name": "Building",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Construction",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"construction\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Ruins",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"ruins\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Toilets",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Toilets\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Water well",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Water well\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Water tower",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Water tower\\\"}\",\"dialog\":\"false\"}"
+    },
+
+    {
+      "name": "Satellite dish",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Satellite dish\\\"}\",\"dialog\":\"false\"}"
+    },
+
+
+    {
+      "name": "Snack Kiosk",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Kiosk\\\",\\\"vending\\\":\\\"snack\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Guest house",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Guest house\\\"}\",\"dialog\":\"true\"}"
+    },
+    {
+      "name": "Guidepost",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information guidepost\\\"}\",\"dialog\":\"true\"}"
+    },
+    {
+      "name": "Beach-volley",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Beach-volley\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Place allotments",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Place allotments\\\"}\",\"dialog\":\"false\"}"
+    }
+  ]
+}

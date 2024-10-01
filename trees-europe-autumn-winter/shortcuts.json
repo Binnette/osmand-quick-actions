@@ -1,0 +1,34 @@
+[
+    {
+        "category": "Common",
+        "items": [
+            { "name": "🟣 Fig", "species": "Ficus carica", "start": 7, "end": 9 },
+            { "name": "🍑 Kaki", "species": "Diospyros kaki", "start": 10, "end": 12 },
+            { "name": "🍎 Pomegranate", "species": "Punica granatum", "start": 10, "end": 11 },
+            { "name": "🫒 Olive", "species": "Olea europaea", "start": 9, "end": 2 },
+            { "name": "🥝 Kiwi", "species": "Actinidia deliciosa", "start": 11, "end": 5 },
+            { "name": "🌳 Ginkgo", "species": "Ginkgo biloba", "start": 9, "end": 11 },
+            { "name": "🌲 Monkey puzzle", "species": "Araucaria araucana", "start": 9, "end": 11 },
+            { "name": "🔴 Rowanberry", "species": "Sorbus aucuparia", "start": 9, "end": 1 },
+
+
+            { "name": "🟤 Medlar", "species": "Mespilus germanica", "start": 9, "end": 11 },
+
+            { "name": "🍐 Quince", "species": "Cydonia oblonga", "start": 10, "end": 11 },
+            { "name": "🍏 Apple", "species": "Malus domestica", "start": 8, "end": 11 },
+            { "name": "🍐 Pear", "species": "Pyrus communis", "start": 8, "end": 10 },
+            { "name": "🫐 Plum", "species": "Prunus domestica", "start": 7, "end": 9 },
+            { "name": "🍇 Grapes", "genus": "Vitis", "start": 8, "end": 10 },
+
+            { "name": "🍇 Blackberry", "species": "Rubus fruticosus", "type": "Shrub", "start": 7, "end": 10 },
+
+            { "name": "🌰 Chestnut", "species": "Castanea sativa", "start": 9, "end": 11 },
+            { "name": "🌰 Hazelnut", "species": "Corylus avellana", "start": 8, "end": 11 },
+            { "name": "🌰 Walnut", "species": "Juglans regia", "start": 9, "end": 10 },
+
+            { "name": "🟠 Loquat", "species": "Eriobotrya japonica", "start": 4, "end": 5 },
+
+            { "name": "🌸 Paulownia", "species": "Paulownia tomentosa", "start": 9, "end": 11 }
+        ]
+    }
+]

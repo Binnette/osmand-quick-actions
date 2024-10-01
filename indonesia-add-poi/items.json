@@ -1,0 +1,23 @@
+{
+  "version": 3,
+  "items": [
+    {
+      "type": "QUICK_ACTIONS",
+      "file": "quick_actions_indonesia_village.json",
+      "buttonState": {
+        "id": "quick_actions_indonesia_village",
+        "name": "🛖 Indonesia Village",
+        "enabled": true
+      }
+    },
+    {
+      "type": "QUICK_ACTIONS",
+      "file": "quick_actions_indonesia_city.json",
+      "buttonState": {
+        "id": "quick_actions_indonesia_city",
+        "name": "🏙️ Indonesia City",
+        "enabled": false
+      }
+    }
+  ]
+}
