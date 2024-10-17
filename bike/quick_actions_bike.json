@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "name": "Drinking water",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Drinking water\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Viewpoint",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Viewpoint\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Picnic table",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Picnic table\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Wayside cross",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Wayside cross\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Toilets",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Toilets\\\",\\\"fee\\\":\\\"\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bench",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bench\\\",\\\"backrest\\\":\\\"\\\"}\",\"dialog\":\"true\"}"
+    },
+    {
+      "name": "Shelter",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Shelter\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bicycle shop",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bicycle\\\"}\",\"dialog\":\"true\"}"
+    },
+    {
+      "name": "Bicycle rental",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bicycle rental\\\",\\\"name\\\":\\\"\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bicycle repair station",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bicycle repair station\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bicycle pump",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bicycle repair station\\\",\\\"service:bicycle:pump\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Charging station",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Charging station\\\",\\\"bicycle\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Map",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information\\\",\\\"information\\\":\\\"map\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Cycle barrier",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"\\\",\\\"barrier\\\":\\\"cycle_barrier\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bike monitoring station",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Monitoring station\\\",\\\"monitoring:bicycle\\\":\\\"yed\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Bus trap",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"\\\",\\\"barrier\\\":\\\"bus_trap\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "ASL",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"\\\",\\\"cycleway\\\":\\\"asl\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Playground",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Playground\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "Cycleway start",
+      "actionType": "fav.add",
+      "params": "{\"dialog\":\"false\",\"category_name\":\"🚲 Todo bike\",\"name\":\"Cycleway start\",\"category_color\":\"-15679248\"}"
+    },
+    {
+      "name": "Cycleway end",
+      "actionType": "fav.add",
+      "params": "{\"dialog\":\"false\",\"category_name\":\"🚲 Todo bike\",\"name\":\"Cycleway end\",\"category_color\":\"-15679248\"}"
+    }
+  ]
+}

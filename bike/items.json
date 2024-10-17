@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "items": [
+    {
+      "type": "QUICK_ACTIONS",
+      "file": "quick_actions_bike.json",
+      "buttonState": {
+        "id": "quick_actions_bike",
+        "name": "🚲 Bicycle",
+        "enabled": true
+      }
+    }
+  ]
+}
