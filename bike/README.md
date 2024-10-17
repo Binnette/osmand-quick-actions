@@ -1,6 +1,25 @@
-# Bike
+# Bike preset
 
-Each action add a POI or add a ⭐ favorite marker.
+## Prerequisites
+
+- [Enable 'OpenSteMap Editing' plugin](https://osmand.net/docs/user/plugins/osm-editing)
+
+## How to install
+
+1. Download file [bike.osf](bike.osf) on your phone
+2. Open the file  with Osmand
+3. Check the box "Settings"
+4. Clic on "Continue"
+5. If asked, clic on "Replace all"
+6. Done, you should see a hand icon on the bottom right corner
+7. Click on this button to show the preset
+
+## Actions of the preset
+
+Each action add a 🟢 new POI or add a ⭐ favorite marker.
+
+- You can upload new POI to OpenStreetMap directly from Osmand
+- About favorite marker, you will need to add the POI manually on OpenStreetMap (via iD, JOSM, etc.)
 
 |Action|Tags|Comment|Doc|
 |------|----|-------|---|
@@ -22,5 +41,5 @@ Each action add a POI or add a ⭐ favorite marker.
 |Bus trap|barrier=bus_trap|A hole in the bus line road. Dangerous for bikes|[🌐](https://wiki.openstreetmap.org/wiki/Tag:barrier%3Dbus_trap)|
 |ASL|cycleway=asl|Advanced stop line for bikes in front of trafic light and stops|[🌐](https://wiki.openstreetmap.org/wiki/Tag:cycleway%3Dasl)|
 |Playground|leisure=playground||[🌐](https://wiki.openstreetmap.org/wiki/Tag:leisure%3Dplayground)|
-|Cycleway start|Add a ⭐ favorite marker|||
-|Cycleway end|Add a ⭐ favorite marker|||
+|Cycleway start|Add a ⭐ favorite marker|Use it to mark the start of a cycleway||
+|Cycleway end|Add a ⭐ favorite marker|Use it to mark the end of a cycleway||
