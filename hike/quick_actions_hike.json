@@ -1,44 +1,134 @@
 {
   "items": [
     {
-      "name": "Viewpoint",
+      "name": "👁️ Viewpoint",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Viewpoint\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Guidepost",
+      "name": "📍 Guidepost",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information guidepost\\\"}\",\"dialog\":\"true\"}"
     },
     {
-      "name": "Spring",
+      "name": "💧 Spring",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Spring\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Wayside cross",
+      "name": "✝️ Wayside cross",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Wayside cross\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Toilets",
+      "name": "🚻 Toilets",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Toilets\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Building",
+      "name": "🏠 Building",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Construction",
+      "name": "🚧 Construction",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"construction\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
     },
     {
-      "name": "Ruins",
+      "name": "🏚️ Ruins",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Building\\\",\\\"ruins\\\":\\\"yes\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🗑️ Waste basket",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Waste basket\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🍽️ Picnic table",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Picnic table\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🪑 Add Bench",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Bench\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🟨 Yellow marker",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information\\\",\\\"information\\\":\\\"route_marker\\\",\\\"hiking\\\":\\\"yes\\\",\\\"colour\\\":\\\"yellow\\\",\\\"osmc:symbol\\\":\\\"yellow:yellow\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🟨🟥 Yellow Red marker",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information\\\",\\\"information\\\":\\\"route_marker\\\",\\\"hiking\\\":\\\"yes\\\",\\\"colour\\\":\\\"yellow;red\\\",\\\"osmc:symbol\\\":\\\"red:red:yellow_upper\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "⬜🟥 White Red marker",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Information\\\",\\\"information\\\":\\\"route_marker\\\",\\\"hiking\\\":\\\"yes\\\",\\\"colour\\\":\\\"white;red\\\",\\\"osmc:symbol\\\":\\\"red:red:white_upper\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🌊 Waterfall",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Waterfall\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🐴 Watering place",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Watering place\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🏚️ Shelter",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Shelter\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🔥 Barbecue",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Barbecue\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "⛰️ Cairn",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Cairn\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🗺️ Map",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Map\\\",\\\"information\\\":\\\"map\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "❤️ Defibrillator",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Defibrillator\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "⛰️ Cave entrance",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Cave entrance\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "📚 Public bookcase",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Public bookcase\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🕊️ Memorial",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Memorial\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🔥 Fire pit",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Fire pit\\\"}\",\"dialog\":\"false\"}"
+    },
+    {
+      "name": "🏓 Table tennis",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\":\"{\\\"poi_type_tag\\\":\\\"Table tennis\\\"}\",\"dialog\":\"false\"}"
     }
   ]
 }

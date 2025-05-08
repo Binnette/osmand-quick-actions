@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "items": [
+    {
+      "type": "QUICK_ACTIONS",
+      "file": "quick_actions_trees.json",
+      "buttonState": {
+        "id": "quick_actions_trees",
+        "name": "🌳 Trees Europe",
+        "enabled": true,
+        "icon": "mx_tree"
+      }
+    }
+  ]
+}

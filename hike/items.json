@@ -7,7 +7,11 @@
       "buttonState": {
         "id": "quick_actions_hike",
         "name": "🥾 Hike",
-        "enabled": true
+        "enabled": true,
+        "icon": "activities_trekking",
+        "size": 48,
+        "corner_radius": 36,
+        "opacity": 0.5
       }
     }
   ]

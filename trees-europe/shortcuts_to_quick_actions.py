@@ -44,6 +44,13 @@ for category in shortcuts:
                 "params": json.dumps(params)
             })
 
+            print(f"Added {full_name}")
+            print(f"  - genus   = {genus}")
+            print(f"  - species = {species}")
+            print(f"")
+
+
+
 # Write the quick_actions_trees.json file
 with open('quick_actions_trees.json', 'w', encoding='utf-8') as file:
     json.dump(quick_actions, file, ensure_ascii=False, indent=2)

@@ -6,6 +6,16 @@
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Ficus\\\", \\\"species\\\": \\\"Ficus carica\\\"}\", \"dialog\": \"true\"}"
     },
     {
+      "name": "🍒 Cherry Prunus avium",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Prunus\\\", \\\"species\\\": \\\"Prunus avium\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "🍒 Cherry plum Prunus cerasifera",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Prunus\\\", \\\"species\\\": \\\"Prunus cerasifera\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
       "name": "🍑 Kaki Diospyros kaki",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Diospyros\\\", \\\"species\\\": \\\"Diospyros kaki\\\"}\", \"dialog\": \"true\"}"
@@ -26,7 +36,7 @@
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Actinidia\\\", \\\"species\\\": \\\"Actinidia deliciosa\\\"}\", \"dialog\": \"true\"}"
     },
     {
-      "name": "🌳 Ginkgo Ginkgo biloba",
+      "name": "🌳 Ginkgo biloba",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Ginkgo\\\", \\\"species\\\": \\\"Ginkgo biloba\\\"}\", \"dialog\": \"true\"}"
     },
@@ -36,9 +46,14 @@
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Araucaria\\\", \\\"species\\\": \\\"Araucaria araucana\\\"}\", \"dialog\": \"true\"}"
     },
     {
-      "name": "🔴 Rowanberry Sorbus aucuparia",
+      "name": "🌸 Paulownia tomentosa",
       "actionType": "osmpoi.add",
-      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Sorbus\\\", \\\"species\\\": \\\"Sorbus aucuparia\\\"}\", \"dialog\": \"true\"}"
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Paulownia\\\", \\\"species\\\": \\\"Paulownia tomentosa\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "💮 Robinia pseudoacacia",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Robinia\\\", \\\"species\\\": \\\"Robinia pseudoacacia\\\"}\", \"dialog\": \"true\"}"
     },
     {
       "name": "🟤 Medlar Mespilus germanica",
@@ -71,17 +86,47 @@
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Vitis\\\"}\", \"dialog\": \"true\"}"
     },
     {
-      "name": "🍇 Blackberry Rubus fruticosus",
+      "name": "🟠 Loquat Eriobotrya japonica",
       "actionType": "osmpoi.add",
-      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Shrub\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Rubus\\\", \\\"species\\\": \\\"Rubus fruticosus\\\"}\", \"dialog\": \"true\"}"
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Eriobotrya\\\", \\\"species\\\": \\\"Eriobotrya japonica\\\"}\", \"dialog\": \"true\"}"
     },
     {
-      "name": "🌰 Chestnut Castanea sativa",
+      "name": "🔴 Rowanberry Sorbus aucuparia",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Sorbus\\\", \\\"species\\\": \\\"Sorbus aucuparia\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "⚫️ Elderberry Sambucus nigra",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Sambucus\\\", \\\"species\\\": \\\"Sambucus nigra\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "⚫️ Black mulberry Morus nigra",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Morus\\\", \\\"species\\\": \\\"Morus nigra\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "🔴 Red mulberry Morus rubra",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Morus\\\", \\\"species\\\": \\\"Morus rubra\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "⚪️ White mulberry Morus alba",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Morus\\\", \\\"species\\\": \\\"Morus alba\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "🍇 Blackberry Rubus fruticosus",
+      "actionType": "osmpoi.add",
+      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Rubus\\\", \\\"species\\\": \\\"Rubus fruticosus\\\"}\", \"dialog\": \"true\"}"
+    },
+    {
+      "name": "🌰 Chestnuts Castanea sativa",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Castanea\\\", \\\"species\\\": \\\"Castanea sativa\\\"}\", \"dialog\": \"true\"}"
     },
     {
-      "name": "🌰 Hazelnut Corylus avellana",
+      "name": "🌰 Hazelnuts Corylus avellana",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Corylus\\\", \\\"species\\\": \\\"Corylus avellana\\\"}\", \"dialog\": \"true\"}"
     },
@@ -89,16 +134,6 @@
       "name": "🌰 Walnut Juglans regia",
       "actionType": "osmpoi.add",
       "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Juglans\\\", \\\"species\\\": \\\"Juglans regia\\\"}\", \"dialog\": \"true\"}"
-    },
-    {
-      "name": "🟠 Loquat Eriobotrya japonica",
-      "actionType": "osmpoi.add",
-      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Eriobotrya\\\", \\\"species\\\": \\\"Eriobotrya japonica\\\"}\", \"dialog\": \"true\"}"
-    },
-    {
-      "name": "🌸 Paulownia Paulownia tomentosa",
-      "actionType": "osmpoi.add",
-      "params": "{\"key_tag\": \"{\\\"poi_type_tag\\\": \\\"Tree\\\", \\\"access\\\": \\\"\\\", \\\"genus\\\": \\\"Paulownia\\\", \\\"species\\\": \\\"Paulownia tomentosa\\\"}\", \"dialog\": \"true\"}"
     }
   ]
 }

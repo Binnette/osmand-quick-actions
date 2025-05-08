@@ -1,31 +1,34 @@
-# Osmand Quick Actions
+# 🚀 OsmAnd Quick Actions
 
-This project contains some presets of quick actions for Osmand. This presets are mainly focused on contributing to OpenStreetMap by addind POI directly in Osmand.
+This project contains **presets of quick actions** for **OsmAnd**, mainly focused on contributing to **OpenStreetMap** 🗺️ by adding **POI** directly in OsmAnd.
 
-## Presets
+## 🎨 Presets
 
-- Hike: create POI during a hike: viewpoint, guidepost, spring, etc.
-- Indonesia:
-  - Village: water well, water tower, kiosk, etc.
-  - City: mosque, church, restaurant, etc.
-- Trees: mainly fruits trees of Europe and others trees that I like to add to the map
+- **🥾 Hike**: Create POI during a hike ⛰️  
+  - **👁️ Viewpoint**, **📍 Guidepost**, **💧 Spring**, etc.
+- **🇮🇩 Indonesia**:
+  - **🏡 Village**: **🚰 Water well**, **🚏 Water tower**, **🛒 Kiosk**, etc.
+  - **🏙️ City**: **🕌 Mosque**, **⛪ Church**, **🍽️ Restaurant**, etc.
+- **🌳 Trees**: Mainly **🍏 fruit trees** of Europe and **🌲 other trees** I like to add to the map.
 
-## How to
+## ⚙️ How to
 
-### Use a preset
+### 📥 Use a preset
 
-1. Download the "osf" file on your phone
-2. Open the "osf" file from phone file manager
-3. Phone should propose you to import the file in Osmand
-4. In Osmand, check the import checkbox
-5. Press import button
+1. **📂 Download** the `.osf` file on your phone  
+2. **📜 Open** the `.osf` file from your phone's file manager  
+3. Your phone should **📌 propose** importing the file into OsmAnd  
+4. In **OsmAnd**, ✅ **Check the import checkbox**  
+5. **🚀 Press the import button**  
 
-### Create or update a preset
+### 🛠️ Create or update a preset
 
-1. Update the JSON files according to your needs
-2. Create a zip with files items.json and quick_actions_*.json
-3. Rename the zip file, for exemple to hike.osf
+1. **✏️ Update** the JSON files according to your needs  
+2. **📦 Create a ZIP** containing `items.json` and `quick_actions_*.json`  
+3. **📝 Rename** the ZIP file (e.g., `hike.osf`)  
 
-##  Original idea
+## 💡 Original idea
 
-Inspired from this repo: https://codeberg.org/barefootstache/OsmAnd-Quick-Actions
+Inspired by this repo: [Barefootstache's OsmAnd Quick Actions](https://codeberg.org/barefootstache/OsmAnd-Quick-Actions) 📌  
+
+🌍 Happy mapping! 🚀
